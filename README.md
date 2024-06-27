@@ -2,4 +2,4 @@
 
 > A Datapack with things that should've been implemented 10x efficiently in a mod.
 
-## Coming Soon...
+Currently in a very closed beta in an Server I'm Hosting
